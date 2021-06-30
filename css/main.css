@@ -1,0 +1,7 @@
+div {
+  color: red;
+  font-size: 50px;
+  width: 200px;
+  height: 200px;
+  background-image: url("/images/google_logo.svg");
+}
